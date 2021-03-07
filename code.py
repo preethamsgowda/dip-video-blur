@@ -6,7 +6,7 @@ import requests
 import threading
 import shutil
 
-url = 'https://nukwox6o64.execute-api.us-east-2.amazonaws.com/Exp'
+url = 'YOUR_AWS_LAMBDA_URL_HERE'
 
 def createDirectory(directoryPath):
     # Create folder if it doesnt exist
